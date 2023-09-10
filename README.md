@@ -1,4 +1,4 @@
-# Cinema - Example of Microservices in Go with Docker, Kubernetes and MongoDB
+# Micro-gomongo.git - Example of Microservices in Go with Docker, Kubernetes and MongoDB
 
 ## Overview
 
